@@ -1,1 +1,45 @@
 /* Empty. Add your own CSS if you like */
+
+#bigCircle {
+    width : 60%;
+    margin : 20px auto;
+}
+
+.progress {
+    position: absolute;
+    color: #bbb;
+    font-weight: 100;
+    line-height: 1;
+}
+
+/* .progress-wrapper {
+    position: relative;
+    margin: 20px auto;
+    font-size: 40px;
+} */
+/* .progress-wrapper {
+    transform: translateY(606%) translateX(45%)
+} */
+#btns {
+  width:100%;
+  padding: 0 10%
+}
+
+ .button:first-child { 
+    float: left;
+}
+
+ .button:last-child { 
+    float: right;
+}
+
+.button :last-child { 
+    clear: both;
+    content: '';
+    display :block
+}
+
+div#inputArea {
+   margin-top: 25px;
+   margin-bottom: 35px
+}
